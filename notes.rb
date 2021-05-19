@@ -49,9 +49,11 @@ git commit -m ''
 git log
 git log --oneline
 - show the commits
+
 check your work
 - no error
 - does work 
+
 git add .
 git commit -m ''
 repeat this step
