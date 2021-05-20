@@ -57,27 +57,36 @@ check your work
 git add .
 git commit -m ''
 repeat this step
+
 git commit 
 VIM - editor in the term
 1 command
 2 insert
 3 visual 
+
 command, 
 write stuff insert mode
 i 
+
 esc out of insert mode into command 
 :wq
+:q!
 - resolving conflict 
+
 git commit --amend 
 - want to change last commit message
+
 git hub stage 
 - create a github repo 
  - once per project
+
 git remote add origin *paste what you copy 
 - ssh 
 - connect your local repo to the github repo 
+
 git push origin master
 - pushes all recents changes to github 
+
 collab
 Branches
 - master
